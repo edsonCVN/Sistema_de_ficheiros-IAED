@@ -1,0 +1,8 @@
+/test02.in tests
+/Makefile test01.in
+/guidelines.md test02.in
+/tests/Makefile execução dos testes
+/construção do projeto Makefile
+/orientações para a escrita do projeto guidelines.md
+/Makefile construção do projeto
+/guidelines.md orientações para a escrita do projeto

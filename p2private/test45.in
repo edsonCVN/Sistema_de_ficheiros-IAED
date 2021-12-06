@@ -1,0 +1,7 @@
+set set /usr/local 123
+set /abc/def 456
+set /usr/local 456
+print
+search 123
+search 456
+quit

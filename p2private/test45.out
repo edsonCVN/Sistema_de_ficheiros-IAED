@@ -1,0 +1,5 @@
+/set /usr/local 123
+/abc/def 456
+/usr/local 456
+not found
+/abc/def

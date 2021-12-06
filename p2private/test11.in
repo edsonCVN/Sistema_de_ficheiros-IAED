@@ -1,0 +1,8 @@
+set a/b/c/d 21
+set /a/b/cc 23
+set /aa 45
+set /a/b/cc/dd 56
+set /xx 99
+set /a/b 123
+list a/b
+quit
